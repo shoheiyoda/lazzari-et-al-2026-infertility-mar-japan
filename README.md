@@ -4,6 +4,7 @@ This repository contains replication files for the following article:
 > Lazzari, Ester; Yoda, Shohei; Fukuda, Setsuya; Raymo, James M. (2026).  
 > **A Research Note on the Role of Infertility and Medically Assisted Reproduction on the Realization of Ideal Family Size in Japan.**  
 > *Demography*.
+> https://doi.org/10.1215/00703370-12714998
 
 ## Data Availability
 The analyses use microdata from the **Japanese National Fertility Surveys (JNFS)** conducted by the National Institute of Population and Social Security Research (IPSS).  
